@@ -18,8 +18,8 @@ import ctypes
 
 
 timesl = 15 # задержка между запросами
-token_bot = "" # создать бота и получить токен тут @BotFather
-chat_id = "" #узнать ваш id можно в боте @userinfobot
+token_bot = "7878416611:AAE7dTw5sKSMfx44fcMKT3gtIVqjfjdELnI" # создать бота и получить токен тут @BotFather
+chat_id = "5987689104" #узнать ваш id можно в боте @userinfobot
 
 
 
